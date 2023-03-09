@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ecommerce</string>
+    <string name="login">Login</string>
+    <string name="perform_login">Perform Login</string>
+    <string name="logout">Logout</string>
+    <string name="welcome">Welcome %1$s</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="search">Search</string>
+    <string name="specials">Specials</string>
+    <string name="account">Account</string>
+    <string name="navigate_back">Navigate Back</string>
+</resources>
